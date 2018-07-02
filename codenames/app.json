@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Code Names Generator",
+    "icon": "CodeNames.png",
+    "version": "1.0.0",
+    "slug": "codenames",
+    "sdkVersion": "27.0.0",
+    "description":
+      "Generates a random board needed to play the amazing board game called 'Code Names'"
+  }
+}
