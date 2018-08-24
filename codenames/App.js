@@ -12,10 +12,10 @@ const RED = '#ea3535';
 const BLACK = '#2b2323';
 const NEUTRAL = '#fffaf2';
 
-let NUM_GREEN = 8;
+let NUM_GREEN = 9;
 let NUM_RED = 8;
 let NUM_BLACK = 1;
-let NUM_NEUTRAL = 8;
+let NUM_NEUTRAL = 7;
 export default class App extends React.Component {
   constructor(props) {
     super(props);
